@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pratiksha Barve 👋
 
-<!--
-**pratubarve27-sudo/pratubarve27-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 System Engineer | Cloud & Infrastructure Enthusiast  
 
-Here are some ideas to get you started:
+🌐 **My Portfolio Website**  
+👉 [Click here to view](https://pratubarve27-sudo.github.io/pratiksha-portfolio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+- 🔹 Portfolio Website
+- 🔹 AWS Server Creation using Ansible.
+- 🔹 AWS Server Decommissioning using Ansible.
+-   
+
+---
+
+## 🛠 Skills
+- AWS | Windows | EC2 | Patching | GitHub
